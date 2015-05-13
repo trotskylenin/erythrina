@@ -1,5 +1,6 @@
-# Erythrina (version en español del proyecto de [Jbat1Jumper](https://github.com/Jbat1Jumper/erythrina))
-##### Indie 2D Game for Godot Engine and a series of tutorials of how I'm making it.
+# Erythrina 
+###Version en español del proyecto de [Jbat1Jumper](https://github.com/Jbat1Jumper/erythrina)
+##### Juego independiente en 2D para Godot Engine y una serie de tutoriales de como hacerlo.
 
 ## Indice
 ### [00 - Introducción](doc/00_introduction.md)
