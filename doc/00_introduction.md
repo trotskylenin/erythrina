@@ -15,7 +15,7 @@ Son fáciles de animar, fáciles de dibujar, fáciles para hacer contenido del j
 
 ## ¿Qué sigue?
 
-Lo siguiente en mi lista inacabable de tutoriales es cómo hacer los sprites y animaciones para este juego. Voy a <s>utilizar el programa Graphics Gale</s> estar usando ASEprite porque es increíble, me gustó mucho usarlo y se puede exportar en él de una manera que funciona bien a Godot .
+Lo siguiente en mi lista inacabable de tutoriales es cómo hacer los sprites y animaciones para este juego. Voy a <s>utilizar el programa Graphics Gale</s> estar usando ASEprite porque es increíble, me gustó mucho usarlo y se puede exportar en él de una manera que funciona bien con Godot .
 
 Después de que voy a hacer el ambiente y algunas baldosas utilizando Pyxel Edit y voy a ponerlo todo junto en el interior del motor Godot para darles vida.
 
