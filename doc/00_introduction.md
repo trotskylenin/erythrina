@@ -3,7 +3,7 @@
 
 ¿De qué se trata todo esto? Aparte de ser una serie de desastres gramaticales y otros horrores de ortografía, esto es (espero) una serie de tutoriales sobre el desarrollo de un juego en 2D, desde el boceto hasta algo grande (espero otra vez), en el motor de juegos Godot. 
 
-Hay tantos temas que captaron mi interes y (voy a tratar) de escribir sobre ellos al menos una vez por semana. Estos temas van desde la creación básica de elementos para el juego, pasando por trucos e idesa utiles y hasta algunas cosas locas que todavía no he implementado en la creación de videojuegos.
+Hay tantos temas que captaron mi interes y (voy a tratar) de escribir sobre ellos al menos una vez por semana. Estos temas van desde la creación básica de elementos para el juego, pasando por trucos e ideas utiles y hasta algunas cosas locas que todavía no he implementado.
 
 Ahora, el juego. Ok, no hay juego. Todavía no. Lo voy a ir desarrollando al mismo tiempo que voy a estar escribiendo estos tutoriales, y lo ire subiendo a [github](https://github.com/jbat1jumper/erythrina), para que todo el mundo pueda acceder al código y usarlo. Voy a estar tratando de registrar cada paso del proceso de desarrollo en los tutoriales, por lo que será fácil de ver el progreso del código en los mismos.
 
