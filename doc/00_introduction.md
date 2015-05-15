@@ -1,22 +1,22 @@
-### Erythrina
-# Introduction
+### Erythrina por Jbat1Jumper
+# Introducción
 
-So, what's all this about? Apart from being a bunch of grammatical horrors and nonsense. This is (I hope) a series of tutorials about the development of a 2D game, from scratch to something big (I hope again), in the Godot Engine. 
+¿De qué se trata todo esto? Aparte de ser una serie de desastres gramaticales y otros horrores de ortografía, esto es (espero) una serie de tutoriales sobre el desarrollo de un juego en 2D, desde el boceto hasta algo grande (espero otra vez), en el motor de juegos Godot. 
 
-There are so many topics of which caught my interest and I will be (trying to) writing about them once a week. They go from basic asset creation, passing by useful tricks and ideas, up to some crazy stuff that I myself have not implemented yet. 
+Hay tantos temas que captaron mi interes y (voy a tratar) de escribir sobre ellos al menos una vez por semana. Estos temas van desde la creación básica de elementos para el juego, pasando por trucos e idesa utiles y hasta algunas cosas locas que todavía no he implementado en la creación de videojuegos.
 
-Now, the game. Ok, there is no game. Not yet. I will be developing it at the same time I will be writing this tutorials, and uploading it to [github](https://github.com/jbat1jumper/erythrina), so everyone can access the code and use it. I will be trying to tag each "tutorial checkpoint" commit so it will be easy to see the progress in the tutorial. 
+Ahora, el juego. Ok, no hay juego. Todavía no. Lo voy a ir desarrollando al mismo tiempo que voy a estar escribiendo estos tutoriales, y lo ire subiendo a [github](https://github.com/jbat1jumper/erythrina), para que todo el mundo pueda acceder al código y usarlo. Voy a estar tratando de registrar cada paso del proceso de desarrollo en los tutoriales, por lo que será fácil de ver el progreso del código en los mismos.
 
-There is no plot, just some random hilarant ideas and a name which I like. The game will be 2D, because 3D still intimidates me, and it will be a platformer. I actually like isometric 2D games a lot more but sometimes one have to choose something and continue to the end. I will be trying to turn it some rpg like game with fast paced combat and I have actually played a little with some pixel art and I foud this simple sprites easy for almost everything.
+No hay trama, sólo algunas ideas aleatorias y delirantes, y un nombre que me gusta. El juego será en 2D, porque el 3D todavía me intimida, y será un juego de plataformas. De hecho me gustan mucho mas los juegos en 2D isométricos, pero a veces uno tiene que elegir algo y continuar hasta el final. Voy a estar tratando de convertirlo luego en algun tipo de juego rpg con combate de ritmo rápido, estuve jugando un poco con los gráficos de pixeles y encontre a estos sprites simples y faciles para casi todo.
 
-![Here must be an image, but there is none. Open some photos of internet cats and they will make the same effect.](img/concept.png) 
+![Aquí debe haber una imagen, pero no hay ninguna. Abra algunas fotos de los gatos de internet y generará el mismo efecto.](Img/concept.png)
 
-They are simple to animate, simple to draw, simple to make content. There is only one drawback that is they are too simple and the pixels are too big so somethimes its not easy to represent some things. Like a scar for example. But that's not our problem by now and it actually exersises creativity. If you do not want to make a pixelated game you just have to change the sprites and adjust some sizes and scales.
+Son fáciles de animar, fáciles de dibujar, fáciles para hacer contenido del juego. Sólo hay un inconveniente, y es que al ser tan simples y los píxeles tan grandes, a veces no es fácil de representar algunas cosas. Por ejemplo, una cicatriz en la cara de un personaje. Pero bueno, ese no es nuestro problema por ahora y de hecho es una limitación que nos hará ejercitar la creatividad. Si usted no quiere hacer un juego pixelado sólo tiene que cambiar los sprites y ajustar algunos tamaños y escalas.
 
-## What's next?
+## ¿Qué sigue?
 
-The next thing in my unfinishable list of tutorials is how to make the sprites and animations for this game. I will <s>be using Graphics Gale</s> be using ASEprite because its awesome, I really enjoyed using it and it can export in a way that fits well with Godot.
+Lo siguiente en mi lista inacabable de tutoriales es cómo hacer los sprites y animaciones para este juego. Voy a <s>utilizar el programa Graphics Gale</s> estar usando ASEprite porque es increíble, me gustó mucho usarlo y se puede exportar en él de una manera que funciona bien a Godot .
 
-After that I will make the environment and some tilesets using Pyxel Edit and put it all together inside the Godot Engine to give them life.
+Después de que voy a hacer el ambiente y algunas baldosas utilizando Pyxel Edit y voy a ponerlo todo junto en el interior del motor Godot para darles vida.
 
-### Lets [start](01_making_assets.md)
+### [Comencemos!](01_making_assets.md)
